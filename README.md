@@ -1,2 +1,2 @@
 # ImageBed
-https://huihui486.github.io的图床
+https://huihui486.github.io 的图床
